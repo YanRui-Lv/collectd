@@ -1,4 +1,4 @@
-k collectd - System information collection daemon
+ collectd - System information collection daemon
 =================================================
 https://collectd.org/
 
